@@ -1,4 +1,6 @@
-# Estafa-en-bizum <img width="1024" height="576" alt="imagen" src="https://github.com/user-attachments/assets/89536b74-9b6f-42d4-a944-5672c96c45b5" />
+# Estafa-en-bizum
+
+<img width="1024" height="576" alt="imagen" src="https://github.com/user-attachments/assets/89536b74-9b6f-42d4-a944-5672c96c45b5" />
 
 La estafa, que consiste en enviar dinero desde una tarjeta robada a un usuario aleatorio
 
