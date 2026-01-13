@@ -1,5 +1,4 @@
 
-<img width="1024" height="576" alt="imagen" src="https://github.com/user-attachments/assets/89536b74-9b6f-42d4-a944-5672c96c45b5" />
 
 # Estafa-en-bizum
 La estafa, que consiste en enviar dinero desde una tarjeta robada a un usuario aleatorio
@@ -28,3 +27,7 @@ También usan mensajes falsos de bancos o compradores para obtener el código Bi
 3- Bloquea al estafador y no vuelvas a responderle.
 
 4- Cambia contraseñas y revisa que no tengan más datos tuyos.
+
+<img width="1024" height="576" alt="imagen" src="https://github.com/user-attachments/assets/89536b74-9b6f-42d4-a944-5672c96c45b5" />
+
+
